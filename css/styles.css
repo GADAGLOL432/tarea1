@@ -1,0 +1,45 @@
+*{
+    margin: auto;
+}
+#general{
+    background-color: yellowgreen;
+    width: 50%;
+    height: 600px;
+    margin-top: 2%;
+}
+#bx0{
+    height: 2%;
+}
+#bx1{
+    width: 20%;
+    height: 15%;
+    background-color: burlywood;
+    float: left;
+    margin-top: 5%;
+    margin-left: 20%;
+    border-radius: 100%;
+}
+#bx2{
+    width: 20%;
+    height: 15%;
+    background-color: burlywood;
+    margin-top: 5%;
+    margin-left: 20%;
+    float: left;
+    border-radius: 100%;
+}
+#bx3{
+    width: 30%;
+    height: 18%;
+    background-color: rebeccapurple;
+    margin-top: 30%;
+    top: 40%;
+    border-radius: 100%;
+
+}
+#bx4{
+    width: 60%;
+    height: 10%;
+    background-color: burlywood;
+    margin-top: 10%;
+}
